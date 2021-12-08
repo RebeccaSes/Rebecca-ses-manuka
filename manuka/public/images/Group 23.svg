@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="287" height="211" viewBox="0 0 287 211">
+  <g id="Group_23" data-name="Group 23" transform="translate(-44.5 -2723)">
+    <text id="Fill_the_fields_below_to_send_a_message" data-name="Fill the fields below
+to send a message" transform="translate(188 2738)" fill="#c8ae5d" font-size="16" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-76" y="0">Fill the fields below</tspan><tspan x="-74" y="20">to send a message</tspan></text>
+    <text id="Your_name" data-name="Your name" transform="translate(187 2796)" fill="#c8ae5d" font-size="14" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-37" y="0">Your name</tspan></text>
+    <text id="Your_email_address" data-name="Your email address" transform="translate(187 2855)" fill="#c8ae5d" font-size="14" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-65" y="0">Your email address</tspan></text>
+    <text id="Your_message" data-name="Your message" transform="translate(188 2914)" fill="#c8ae5d" font-size="14" font-family="Montserrat-Light, Montserrat" font-weight="300"><tspan x="-48" y="0">Your message</tspan></text>
+    <line id="Line_4" data-name="Line 4" x2="286" transform="translate(44.5 2815.5)" fill="none" stroke="#c8ae5d" stroke-width="1"/>
+    <line id="Line_6" data-name="Line 6" x2="286" transform="translate(45.5 2933.5)" fill="none" stroke="#c8ae5d" stroke-width="1"/>
+    <line id="Line_5" data-name="Line 5" x2="286" transform="translate(44.5 2874.5)" fill="none" stroke="#c8ae5d" stroke-width="1"/>
+  </g>
+</svg>

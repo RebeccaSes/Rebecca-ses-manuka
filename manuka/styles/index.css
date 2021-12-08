@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    @apply text-gray1;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
